@@ -1,0 +1,38 @@
+Linux Commands
+
+Below command will connect as root 
+
+- sudo su 
+
+
+Command to update the linux package 
+
+- yum update 
+
+
+To install Httpd application on linux 
+
+
+- yum install httpd
+- systemctl start httpd
+- systemctl enable httpd
+
+
+
+To list files in linux
+
+- ls
+
+
+to move the files from one folder to another folder 
+
+- mv source_path destination_path 
+- mv  html/* /var/www/html/
+
+
+
+
+
+
+
+
